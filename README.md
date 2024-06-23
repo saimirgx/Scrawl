@@ -38,6 +38,7 @@ The application has different bells and whistles like it provide the ability to 
 * Amazon Web Service Device Farm
 
 **Deployment**
+* Loadly.io (App Deployment with API)
 * Diawi (App Deployment)
 * Bluenose (API)
 
